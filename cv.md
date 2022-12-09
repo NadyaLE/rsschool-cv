@@ -21,7 +21,7 @@ Skills and Proficiency:
 * JavaScript
 * Git, CitHub
 * VS Code, IntelliJ IDEA
-* нно, SOLID
+* OOP, SOLID
 * Java
 * Apache Maven
 * JDBC
