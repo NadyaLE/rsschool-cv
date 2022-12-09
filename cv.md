@@ -8,7 +8,6 @@ Telegram:                                    @nlitke
 Phone:                              +7 705 912 91 51
 Country:                                      Russia
 -------------------     ----------------------------
-
 Education
 ---------
 2017-2021
